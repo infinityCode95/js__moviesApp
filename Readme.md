@@ -7,7 +7,11 @@
 </h3>
 
 <h4>
-  Stack: HTML, SCSS, Bootstrap, JavaScipt, работа с API.
+  Stack: HTML, SCSS, Bootstrap, JavaScipt, работа с API, WebPack
 </h4>
+
+<p>
+  Description: небольшое приложение, которое загружает и отображает данные из API. Введя название в поиске, можно найти нужный фильм.    
+</p>
 
 
