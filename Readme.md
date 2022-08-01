@@ -6,9 +6,7 @@
   <a href="https://infinitycode95.github.io/js__moviesApp/index.html">🔗 Открыть </a> 
 </h3>
 
-<h4>
-  Stack: HTML, SCSS, Bootstrap, JavaScipt, работа с API, WebPack
-</h4>
+<h4> Stack: </h4> <p>HTML, SCSS, Bootstrap, JavaScipt, работа с API, WebPack</p>
 
 <p>
   Description: небольшое приложение, которое загружает и отображает данные из API. Введя название в поиске, можно найти нужный фильм.    
