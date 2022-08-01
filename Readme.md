@@ -3,5 +3,11 @@
 </p>
 
 <h3>
-  <a href="https://infinitycode95.github.io/js__moviesApp/index.html">🔗 Open</a> 
+  <a href="https://infinitycode95.github.io/js__moviesApp/index.html">🔗 Открыть </a> 
 </h3>
+
+<h4>
+  Stack: HTML, SCSS, Bootstrap, JavaScipt, работа с API.
+</h4>
+
+
