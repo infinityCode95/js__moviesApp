@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83776550/176659639-9372d341-0902-4aea-8757-3c11ef2553d4.gif"/>
+  <img src="https://user-images.githubusercontent.com/83776550/182084560-86405b33-b1d1-4f5d-b468-6784c559e777.gif"/>
 </p>
 
 <h3>
-  <a href="https://infinitycode95.github.io/vue3__notes/#/">🔗 link</a> 
+  <a href="https://infinitycode95.github.io/js__moviesApp/index.html">🔗 Open</a> 
 </h3>
